@@ -3,5 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hexo/.deploy_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hexo/themes/BlueLake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hexo/themes/clover" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hexo/themes/jsimple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hexo/themes/next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hexo/themes/spfk" vcs="Git" />
   </component>
 </project>
